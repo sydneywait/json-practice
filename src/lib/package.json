@@ -2,7 +2,7 @@
   "name": "app-name-here",
   "version": "1.0.0",
   "description": "",
-  "main": "../scripts/main.js",
+  "main": "../scripts/employees.js",
   "scripts": {},
   "keywords": [],
   "author": "",
